@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita&family=Bad+Script&family=Berkshire+Swash&family=Creepster&family=Darker+Grotesque&family=Libre+Baskerville&family=Lobster&family=Marck+Script&family=Merriweather:ital,wght@1,300&family=Mukta&family=Oswald:wght@300&family=Poppins:ital,wght@0,400;1,200&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&family=Rubik+Glitch&family=Staatliches&display=swap');
+body{
+    background-color: #000000;
+}
+
+#result .list-group {
+    background-color: rgb(74 78 74 / 99%);
+    color:#ffffff;
+    font-family: 'Poppins', sans-serif;
+    
+  }
+  #result .list-group img{
+    max-width: 30px;
+  }
+    #result .row img{
+       max-width:400px;
+       height: 100px;
+   } 
+   h1{
+    color: rgb(255, 0, 0);
+   }
+  
+  /* .row{
+    width: 500px;
+    text-align: center; 
+     margin-right:20px; 
+     justify-content: center;
+  }  */
+  /* #box{
+    border: none;
+    color: rgb(194, 12, 12);
+  } */
